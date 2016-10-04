@@ -20,7 +20,7 @@ namespace ConsoleApplication
             mixedList.Add(1);
 
             //Iterate through list and print all values
-            foreach (var object_print in mixedList) //Here var is Type Inference
+            foreach (var object_print in mixedList) //Here var is Type Inference   
             {
                 Console.WriteLine(object_print);
 
